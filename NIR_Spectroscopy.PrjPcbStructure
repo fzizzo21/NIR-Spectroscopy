@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=ADC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=LED Emitters.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Photodiode Receiver.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=uC.SchDoc|SheetNumber=2

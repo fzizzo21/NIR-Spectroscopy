@@ -1,0 +1,32 @@
+Line #,Name,Description,Designator,Revision ID,Revision State,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,,,,,,,,,,,,,,
+,6.91211E+11,,"1450, 1650, PWR, RX",CMP-1502-02456-2,Released,Up to date,4,Wurth Elektronik,JL308-25402G01,Unknown,RS (Formerly Allied Electronics),74394624,0.48,1.92
+,CL10A225KO8NNNC,Cap Ceramic 2.2uF 16V X5R ±10% Pad SMD 0603 +85°C T/R,"C1, C2, C4, C5",CMP-13271-000835-1,New From Design,Up to date,4,Samsung Electro-Mechanics,CL10A225KO8NNNC,Volume Production,DigiKey,1276-1040-1-ND,0.009,0.09
+,CL05B104KO5NNNC,"Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel","C3, C7, C9, C11, C13, C15, C16, C18, C19, C20, C21, C23, C24",CMP-2000-05439-1,Released,Up to date,13,Samsung Electro-Mechanics,CL05B104KO5NNNC,Volume Production,DigiKey,1276-1001-1-ND,0.009,0.117
+,CL05A105KA5NQNC,Cap Ceramic 1uF 25V X5R ±10% SMD 0402 +85°C Paper T/R,"C6, C10, C12, C14",CMP-13271-001051-1,New From Design,Up to date,4,Samsung Electro-Mechanics,CL05A105KA5NQNC,Volume Production,Mouser,187-CL05A105KA5NQNC,0.021,0.21
+,22 µF,CAP CER 22UF 6.3V X5R 0603,C8,,Not managed,,1,Samsung Electro-Mechanics,CL10A226KQ8NRNE,Volume Production,DigiKey,1276-2867-1-ND,0.43,0.43
+,47pF,Capacitor 0402CG470J500NT,C17,,Not managed,,1,,0402CG470J500NT,,,,,
+,CL05B103KB5NNNC,Cap Ceramic 10nF 50V X7R ±10% SMD 0402 +125°C Paper T/R,C22,CMP-13271-000387-1,New From Design,Up to date,1,Samsung Electro-Mechanics,CL05B103KB5NNNC,Volume Production,Farnell,3013345,0.00566,0.05658
+,CL10B221KB8NNNC,Cap Ceramic 220pF 50V X7R ±10% Pad SMD 0603 +125°C T/R,C25,CMP-13271-000087-1,New From Design,Up to date,1,Samsung Electro-Mechanics,CL10B221KB8NNNC,Volume Production,DigiKey,1276-1145-1-ND,0.1,0.1
+,Green,LED GREEN CLEAR 0805 SMD KT0805G,D1,,Not managed,,1,Bivar,SM0805GC,Volume Production,DigiKey,492-1696-1-ND,0.98,0.98
+,BLM18PG121SN1D,"Chip Ferrite Bead, 0603, 120O @ 100MHz, 0.05O, 25%, 2A",FB1,CMP-0686-00557-7,Released,Up to date,1,Murata,BLM18PG121SN1D,Volume Production,Mouser,81-BLM18PG121SN1D,0.1,0.1
+,AL5816QW5-7,Integrated Circuit,"IC1, IC2",,Not managed,,2,,AL5816QW5-7,,,,,
+,Micro USB,CONN RCPT USB2.0 MICRO B SMD R/A,MCU1,,Not managed,,1,Amphenol Communications Solutions,10118193-0001LF,Volume Production,DigiKey,609-4616-2-ND,0.2614,313.68
+,AO3400A,MOSFET N-CH 30V 5.7A SOT23,"Q1, Q2",CMP-83955-000006-1,New From Design,Up to date,2,Alpha & Omega Semiconductor,AO3400A,Volume Production,DigiKey,785-1000-1-ND,0.46,0.92
+,0 Ohms,0805 0 ohm - use 0805W8F0000T5E,R1,,Not managed,,1,KOA Speer,0805W8F0000T5E,Volume Production,DigiKey,2019-TLRZ2ATTDCT-ND,0.39,0.39
+,1.5 kOhms,RES 1.5K OHM 1% 1/16W 0402,R2,,Not managed,,1,Stackpole Electronics,RMCF0402FT1K50,Volume Production,DigiKey,RMCF0402FT1K50CT-ND,0.1,0.1
+,10 kOhms,RES SMD 10K OHM 1% 1/16W 0402,"R3, R12, R14, R15, R17, R18, R19",,Not managed,,7,Vishay,CRCW040210K0FKEE,Volume Production,DigiKey,541-2954-1-ND,0.03,0.3
+,1 kOhms,RES SMD 1K OHM 0.1% 1/16W 0402,"R4, R10, R16",,Not managed,,3,TE Connectivity,CPF0402B1K0E,Volume Production,DigiKey,A119928CT-ND,0.19,0.57
+,22 Ohms,RES SMD 22 OHM 0.5% 1/16W 0402,"R5, R6, R7",,Not managed,,3,Susumu,RR0510R-220-D,Not Recommended for New Design,DigiKey,RR05R22DCT-ND,0.024,0.24
+,6.8 Ohms,RES 6.8 OHM 1% 1/16W 0402,R8,,Not managed,,1,Stackpole Electronics,RMCF0402FT6R80,Volume Production,DigiKey,RMCF0402FT6R80CT-ND,0.1,0.1
+,10 Ohms,RES SMD 10 OHM 5% 1/10W 0402,R9,,Not managed,,1,Panasonic,ERJ-2GEJ100X,Volume Production,DigiKey,P10JCT-ND,0.1,0.1
+,4.7 kOhms,RES SMD 4.7K OHM 0.5% 1/16W 0402,R11,,Not managed,,1,Susumu,RR0510P-472-D,Not Recommended for New Design,DigiKey,RR05P4.7KDCT-ND,0.1,0.1
+,100 Ohms,RES SMD 100 OHM 0.5% 1/16W 0402,R13,,Not managed,,1,Susumu,RR0510P-101-D,Not Recommended for New Design,DigiKey,RR05P100DCT-ND,0.1,0.1
+,TS-1187A-B-A-B,Switch,S1,,Not managed,,1,,TS-1187A-B-A-B,,,,,
+,MIC5528-3.3YMT-TR,IC REG LINEAR 3.3V 500MA 6TDFN,U1,CMP-06324-000078-1,New From Design,Up to date,1,Microchip,MIC5528-3.3YMT-TR,Volume Production,Newark,03AJ2192,0.14,0.14
+,ESP32-C6-MINI-1-N4,"802.15.4, Bluetooth, WiFi 802.11ax, Bluetooth v5.0, ZigbeeÂ® Transceiver Module 2.4GHz Antenna Not Included Surface Mount",U2,,Not managed,,1,,ESP32-C6-MINI-1-N4,,,,,
+,TLA2518IRTER,IC ADC 12BIT SAR 16WQFN,U3,CMP-04860-000058-1,New From Design,Up to date,1,Texas Instruments,TLA2518IRTER,Volume Production,Mouser,595-TLA2518IRTER,3.09,3.09
+,OPA2320AIDR,"Precision, 20 MHz, 0.9 pA Ib, RRIO, CMOS Operational Amplifier, 1.8 to 5.5 V, -40 to 125 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)","U4, U5",CMP-0272-00771-3,Released,Up to date,2,Texas Instruments,OPA2320AIDR,Volume Production,Arrow Electronics,OPA2320AIDR,2.36,4.71
+,SN74LVC1G66DCKR,IC SWITCH 1X1 SC70-5,U6,CMP-0859-00385-4,New From Design,Up to date,1,Texas Instruments,SN74LVC1G66DCKR,Volume Production,DigiKey,296-13254-1-ND,0.15,0.15
+,SN74LVC1G17DCKR,IC BUF NON-INVERT 5.5V SC70-5,U7,CMP-0859-00388-5,New From Design,Up to date,1,Texas Instruments,SN74LVC1G17DCKR,Volume Production,DigiKey,296-11934-1-ND,0.14,0.14
+,50kOhms,"Trimmer, Cermet, Rest 50 Kilohms, SMD, 1 Turn, Pwr-Rtg 0.25W | Bourns 3314J-1-503E","VR1, VR2",,Not managed,,2,,,,,,,
